@@ -1,0 +1,19 @@
+LEGACY GEMINI GEMS OPTION
+Prodiges Accelerator Skills v1.0.0 | 21 November 2026
+
+Use this option only if your account still offers Gems instead of native Skills. For native Skills, use the ZIPs in gemini-zips/ and START_HERE.md.
+
+1. Open Gemini and create a new Gem from the Gems page.
+2. Use one of the four skill names as the Gem name.
+3. Copy all text from the matching <skill-name>-instructions.txt into the Gem instructions.
+4. Add the matching <skill-name>-guide.txt as a knowledge file.
+5. Save, open a conversation with that Gem, and supply the startup brief and your task.
+6. Repeat for any other skills you want to use.
+
+The guide is a text adaptation for this interface, not a native installed Agent Skill. It does not add browsing, code execution, external integrations, or automatic handoffs. Give the next Gem the relevant prior report when continuing a workflow. Keep startup-specific evidence in that startup's conversation or approved workspace, not inside the shared reusable knowledge guide.
+
+If the knowledge attachment is unavailable in your account, supply the matching guide in the conversation alongside the instructions; describe this as a conversation setup rather than an installed Gem.
+
+Google's official guides:
+https://support.google.com/gemini/answer/15146780
+https://support.google.com/gemini/answer/18560919

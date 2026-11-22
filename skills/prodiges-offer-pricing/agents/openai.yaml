@@ -1,0 +1,14 @@
+interface:
+  display_name: Prodiges Offer and Pricing
+  short_description: Design offers, pricing, and validation experiments
+  default_prompt: Use $prodiges-offer-pricing to develop our offer, price scenarios,
+    and a customer validation experiment.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

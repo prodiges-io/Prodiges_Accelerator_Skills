@@ -1,0 +1,71 @@
+{
+  "currency": "EUR",
+  "scenarios": [
+    {
+      "name": "illustrative_low_usage",
+      "model": "recurring",
+      "period_label": "12 months of service, paid annually",
+      "period_months": 12,
+      "customers": 10,
+      "price_per_customer": "120.00",
+      "price_includes_tax": true,
+      "tax_rate": "0.20",
+      "refund_rate": "0.10",
+      "payment_fee_rate": "0.02",
+      "payment_fee_fixed": "0.50",
+      "transactions_per_customer": 1,
+      "processor_fees_returned_on_refund": false,
+      "refund_fee_per_refunded_transaction": "0.00",
+      "variable_costs_per_customer": {
+        "ai_api": "2.00",
+        "hosting_storage": "4.00",
+        "support_effort": "6.00"
+      },
+      "fixed_costs_per_period": "100.00"
+    },
+    {
+      "name": "illustrative_typical_usage",
+      "model": "recurring",
+      "period_label": "12 months of service, paid annually",
+      "period_months": 12,
+      "customers": 10,
+      "price_per_customer": "120.00",
+      "price_includes_tax": true,
+      "tax_rate": "0.20",
+      "refund_rate": "0.10",
+      "payment_fee_rate": "0.02",
+      "payment_fee_fixed": "0.50",
+      "transactions_per_customer": 1,
+      "processor_fees_returned_on_refund": false,
+      "refund_fee_per_refunded_transaction": "0.00",
+      "variable_costs_per_customer": {
+        "ai_api": "4.00",
+        "hosting_storage": "6.00",
+        "support_effort": "10.00"
+      },
+      "fixed_costs_per_period": "100.00"
+    },
+    {
+      "name": "illustrative_heavy_usage",
+      "model": "recurring",
+      "period_label": "12 months of service, paid annually",
+      "period_months": 12,
+      "customers": 10,
+      "price_per_customer": "120.00",
+      "price_includes_tax": true,
+      "tax_rate": "0.20",
+      "refund_rate": "0.10",
+      "payment_fee_rate": "0.02",
+      "payment_fee_fixed": "0.50",
+      "transactions_per_customer": 1,
+      "processor_fees_returned_on_refund": false,
+      "refund_fee_per_refunded_transaction": "0.00",
+      "variable_costs_per_customer": {
+        "ai_api": "30.00",
+        "hosting_storage": "20.00",
+        "support_effort": "50.00"
+      },
+      "fixed_costs_per_period": "100.00"
+    }
+  ]
+}

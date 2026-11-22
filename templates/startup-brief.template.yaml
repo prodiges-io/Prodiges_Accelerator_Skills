@@ -1,0 +1,35 @@
+# Fill what is known; leave unknown values null.
+# This file contains no real startup data.
+startup_id: null
+name: null
+description: null
+website: null
+preferred_language: en
+as_of: null
+business_type: null # B2B, B2C, or mixed
+stage: null # idea, prototype, pilot, launched, growth
+target_customers: []
+user: null
+payer: null
+buyer_or_approver: null
+geographies: []
+problem: null
+desired_customer_outcome: null
+existing_alternatives: []
+offer: null
+value_frequency: null # continuous, periodic, seasonal, occasional
+pricing_model: null # subscription, usage, credits, pass, one_time, hybrid
+currency: null
+tax_basis: null # inclusive, exclusive, unknown
+billing_period: null
+current_price: null
+usage_and_cost_assumptions: []
+evidence: [] # Supply source files/URLs, dates, relevant locators, and permission context.
+metrics: [] # Include definitions, dates, denominators, and whether actual or estimated.
+current_tasks: []
+team_capacity: null
+constraints: []
+next_milestone: null
+requested_decision: null
+known_missing_information: []
+

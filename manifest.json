@@ -1,0 +1,328 @@
+{
+  "package": "Prodiges Accelerator Skills",
+  "version": "1.0.0",
+  "built_on": "2026-11-21",
+  "skills": [
+    "prodiges-customer-discovery",
+    "prodiges-competition-positioning",
+    "prodiges-offer-pricing",
+    "prodiges-startup-review"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "archive_layouts": {
+    "claude-zips": "<skill-name>/SKILL.md",
+    "gemini-zips": "SKILL.md",
+    "skills": "uncompressed folders for Codex and Gemini CLI"
+  },
+  "live_client_installation_tested": false,
+  "files": [
+    {
+      "path": "START_HERE.md",
+      "bytes": 10480,
+      "sha256": "bade20ec3fee43c1d7f9ee5866726cf313ca28477a281d2f5759e8be2138e66f"
+    },
+    {
+      "path": "VALIDATION.md",
+      "bytes": 3886,
+      "sha256": "88c3e7303a40da7038cdd2de416f510743e99371c66e6dfd42478989e87fbfdc"
+    },
+    {
+      "path": "claude-zips/prodiges-competition-positioning.zip",
+      "bytes": 18654,
+      "sha256": "32e9f0f7bbe6782805797aaab828123ee22c641c034e7a2e8778a9f0d64d3da5"
+    },
+    {
+      "path": "claude-zips/prodiges-customer-discovery.zip",
+      "bytes": 16646,
+      "sha256": "49a1b27bf3015d93e56574639e5c50a29b528480368ed50d8be0d26569f8caf5"
+    },
+    {
+      "path": "claude-zips/prodiges-offer-pricing.zip",
+      "bytes": 18511,
+      "sha256": "03992bd3e8d3635d23f25bbf02c78ae89ec3102cdf98ccf98a04c92cd0f5a420"
+    },
+    {
+      "path": "claude-zips/prodiges-startup-review.zip",
+      "bytes": 18123,
+      "sha256": "70c2b2b5c319e63bb947b6fdd6b32d403ac1e9d6d93d52e29dd915828946c4d5"
+    },
+    {
+      "path": "gemini-legacy/INSTRUCTIONS.txt",
+      "bytes": 1341,
+      "sha256": "c711f3ce171471b1bc9ec02ecc1397c7177356e071493c01918aa42871341ff3"
+    },
+    {
+      "path": "gemini-legacy/prodiges-competition-positioning-guide.txt",
+      "bytes": 43246,
+      "sha256": "f3c7572ffd3b4a75df199cd5c7076246ac210c41f2bc537e60a47310b898541f"
+    },
+    {
+      "path": "gemini-legacy/prodiges-competition-positioning-instructions.txt",
+      "bytes": 1776,
+      "sha256": "994379c19e75a53d45d13f952bd6e7635045a667258b6a2ed730a981c66a127f"
+    },
+    {
+      "path": "gemini-legacy/prodiges-customer-discovery-guide.txt",
+      "bytes": 38225,
+      "sha256": "ab8fc50825636ffb699c51c938d467f2074b379b52d8743515d7339503d17014"
+    },
+    {
+      "path": "gemini-legacy/prodiges-customer-discovery-instructions.txt",
+      "bytes": 1766,
+      "sha256": "ee733eb94fd9fa5b221f4990a2dcbd22788c3a91ccfb19066161303a5f36ad48"
+    },
+    {
+      "path": "gemini-legacy/prodiges-offer-pricing-guide.txt",
+      "bytes": 47014,
+      "sha256": "24b73603048f12b06c2b9e57c298bc2f73f3b661d4c7075e1d94f4306dd04987"
+    },
+    {
+      "path": "gemini-legacy/prodiges-offer-pricing-instructions.txt",
+      "bytes": 1756,
+      "sha256": "fe625eba6c0e21dadea600a4673b8605a5e6c1d80d81704fbca20c9a02a3492b"
+    },
+    {
+      "path": "gemini-legacy/prodiges-startup-review-guide.txt",
+      "bytes": 43845,
+      "sha256": "dd443a5bb78bb3c1b49a6cfb8a71161eb4f625002e2dbc7f2d5280cb7a8ce514"
+    },
+    {
+      "path": "gemini-legacy/prodiges-startup-review-instructions.txt",
+      "bytes": 1758,
+      "sha256": "60e84088285304dcf16b596a4fa5a5baccea806c86a8dc57530e94a321f3a1b0"
+    },
+    {
+      "path": "gemini-zips/prodiges-competition-positioning-gemini.zip",
+      "bytes": 17994,
+      "sha256": "1a7a334791ed9f962c079bfff88308952f97fbffd40f6f75538c4bfe32d13818"
+    },
+    {
+      "path": "gemini-zips/prodiges-customer-discovery-gemini.zip",
+      "bytes": 16086,
+      "sha256": "85169d43eb4e8d5a801edf0e54c7d05d353ecfa0b09fc40abc37f029ce7c2bba"
+    },
+    {
+      "path": "gemini-zips/prodiges-offer-pricing-gemini.zip",
+      "bytes": 18005,
+      "sha256": "33127c26b6baca6d6a2f2be0a5bc85236cdf3c06e28f10cb61b7c1e93fd9619d"
+    },
+    {
+      "path": "gemini-zips/prodiges-startup-review-gemini.zip",
+      "bytes": 17643,
+      "sha256": "d688da3b02f323e4bc9e0cf9611efc7a9de7f14928529a9b90cdd8fd0e66d5f7"
+    },
+    {
+      "path": "skills/prodiges-competition-positioning/SKILL.md",
+      "bytes": 9589,
+      "sha256": "089ee85f771a33356f53ef40aa720e5009ce116ab48f9176c3fcf4bae79eb8b5"
+    },
+    {
+      "path": "skills/prodiges-competition-positioning/agents/openai.yaml",
+      "bytes": 418,
+      "sha256": "e8fc15a78bb6defc5133c2c1b5e27b270b629035ca9dd977a9cc3de5d5bb168d"
+    },
+    {
+      "path": "skills/prodiges-competition-positioning/assets/competition-positioning-report.template.md",
+      "bytes": 4795,
+      "sha256": "8afec59a7af94acac99ba51411a81944ad6af43ecadf3b2b41430e6bc1dcc9a8"
+    },
+    {
+      "path": "skills/prodiges-competition-positioning/assets/icon.svg",
+      "bytes": 420,
+      "sha256": "e9301497fa98ef56aaca7ede0857b9a18dc06c34040f0679c609a6bf49b1d38b"
+    },
+    {
+      "path": "skills/prodiges-competition-positioning/assets/report.schema.json",
+      "bytes": 6788,
+      "sha256": "da9dd662c570e27a4870201e48d03309be0280ebab7ed22bbfd9401a361f1954"
+    },
+    {
+      "path": "skills/prodiges-competition-positioning/assets/startup-brief.template.yaml",
+      "bytes": 1038,
+      "sha256": "b6631b96e893c22f037703bffde3516bbe846c397c2b9962e02e432edf70df6d"
+    },
+    {
+      "path": "skills/prodiges-competition-positioning/references/evidence-and-working-rules.md",
+      "bytes": 5244,
+      "sha256": "6a11270903e0eba945c1182ce0ab5cf238cdae2033800e1a3e976febbc17d6c7"
+    },
+    {
+      "path": "skills/prodiges-competition-positioning/references/output-contract.md",
+      "bytes": 3018,
+      "sha256": "8f3f7b7c4210f382334689f7449914f4d3123e36d269f4fb86e8491f0af97284"
+    },
+    {
+      "path": "skills/prodiges-competition-positioning/references/positioning-rubric.md",
+      "bytes": 4406,
+      "sha256": "560ae51d9f227797bb87b9e9da473ffb10325742e821706d5ef3eb1530db45da"
+    },
+    {
+      "path": "skills/prodiges-competition-positioning/references/research-protocol.md",
+      "bytes": 6381,
+      "sha256": "1a2802201d93078dc3a8dee09e0581b37dfa70ede27aa78be14412761ac163c8"
+    },
+    {
+      "path": "skills/prodiges-customer-discovery/SKILL.md",
+      "bytes": 9997,
+      "sha256": "133703b32828f91a5c6c138b18018178ffa6d2dbb738fe9c189a9d253c368e31"
+    },
+    {
+      "path": "skills/prodiges-customer-discovery/agents/openai.yaml",
+      "bytes": 425,
+      "sha256": "bd33a252946de0601ca8ecd2c71dae77b416d492f5d64f1068bd59e8e10c6d99"
+    },
+    {
+      "path": "skills/prodiges-customer-discovery/assets/discovery-report.template.md",
+      "bytes": 3103,
+      "sha256": "1fc5f4bfdfa5b78dcae72c24d13cad5e034866ee88dfa5c719c1619cd5cd9034"
+    },
+    {
+      "path": "skills/prodiges-customer-discovery/assets/icon.svg",
+      "bytes": 667,
+      "sha256": "9be88f8dd4c5e658961515c71389eafd45142ffa68bcae58e8dcff57d178ed91"
+    },
+    {
+      "path": "skills/prodiges-customer-discovery/assets/report.schema.json",
+      "bytes": 6788,
+      "sha256": "da9dd662c570e27a4870201e48d03309be0280ebab7ed22bbfd9401a361f1954"
+    },
+    {
+      "path": "skills/prodiges-customer-discovery/assets/startup-brief.template.yaml",
+      "bytes": 1038,
+      "sha256": "b6631b96e893c22f037703bffde3516bbe846c397c2b9962e02e432edf70df6d"
+    },
+    {
+      "path": "skills/prodiges-customer-discovery/references/discovery-review-rubric.md",
+      "bytes": 2715,
+      "sha256": "0dd2c6fc637bd9c16f95049c5c25ab797a299356becfe70384bb13d45c855e22"
+    },
+    {
+      "path": "skills/prodiges-customer-discovery/references/evidence-and-working-rules.md",
+      "bytes": 5244,
+      "sha256": "6a11270903e0eba945c1182ce0ab5cf238cdae2033800e1a3e976febbc17d6c7"
+    },
+    {
+      "path": "skills/prodiges-customer-discovery/references/interview-guide.md",
+      "bytes": 4351,
+      "sha256": "191bf8a8eca1c7906df9eba64c819a66030943a2121c729bf49737807dba0594"
+    },
+    {
+      "path": "skills/prodiges-customer-discovery/references/output-contract.md",
+      "bytes": 3018,
+      "sha256": "8f3f7b7c4210f382334689f7449914f4d3123e36d269f4fb86e8491f0af97284"
+    },
+    {
+      "path": "skills/prodiges-offer-pricing/SKILL.md",
+      "bytes": 7215,
+      "sha256": "03f3ddef483653e9fb6500ac5db3e2754b319a76d3832818a3b7b308a2ad2ee3"
+    },
+    {
+      "path": "skills/prodiges-offer-pricing/agents/openai.yaml",
+      "bytes": 407,
+      "sha256": "e928d1f9deabc97918f1fbe8571d4e51b41c149f8667fe088b365e7c48ee1221"
+    },
+    {
+      "path": "skills/prodiges-offer-pricing/assets/icon.svg",
+      "bytes": 420,
+      "sha256": "e9301497fa98ef56aaca7ede0857b9a18dc06c34040f0679c609a6bf49b1d38b"
+    },
+    {
+      "path": "skills/prodiges-offer-pricing/assets/offer-pricing-report.template.md",
+      "bytes": 2864,
+      "sha256": "1b9b8f38da8d8f59a13aab8dc3b5d5a041545144ee9761356def8f326aa94bc4"
+    },
+    {
+      "path": "skills/prodiges-offer-pricing/assets/pricing-scenarios.example.json",
+      "bytes": 2191,
+      "sha256": "a12368015bd106d7b2f1d1f1e232f38555399477c166bca8610fb62a6375cae9"
+    },
+    {
+      "path": "skills/prodiges-offer-pricing/assets/report.schema.json",
+      "bytes": 6788,
+      "sha256": "da9dd662c570e27a4870201e48d03309be0280ebab7ed22bbfd9401a361f1954"
+    },
+    {
+      "path": "skills/prodiges-offer-pricing/assets/startup-brief.template.yaml",
+      "bytes": 1038,
+      "sha256": "b6631b96e893c22f037703bffde3516bbe846c397c2b9962e02e432edf70df6d"
+    },
+    {
+      "path": "skills/prodiges-offer-pricing/references/evidence-and-working-rules.md",
+      "bytes": 5244,
+      "sha256": "6a11270903e0eba945c1182ce0ab5cf238cdae2033800e1a3e976febbc17d6c7"
+    },
+    {
+      "path": "skills/prodiges-offer-pricing/references/output-contract.md",
+      "bytes": 3018,
+      "sha256": "8f3f7b7c4210f382334689f7449914f4d3123e36d269f4fb86e8491f0af97284"
+    },
+    {
+      "path": "skills/prodiges-offer-pricing/references/pricing-method.md",
+      "bytes": 7023,
+      "sha256": "a3853388d83bbc9ab9c2e526d4b4d19a05bdefa0a5f75d275c630ba02aa78e9a"
+    },
+    {
+      "path": "skills/prodiges-offer-pricing/scripts/pricing_calculator.py",
+      "bytes": 9472,
+      "sha256": "cfc9def736dcfb50f5f77066f72abaa4dbe985242017cc96efd770172055568c"
+    },
+    {
+      "path": "skills/prodiges-startup-review/SKILL.md",
+      "bytes": 6134,
+      "sha256": "150e4aac194f97a0edc8adcdb5ce9cf50000413a64b767bc7fadc5ea0d9abd8d"
+    },
+    {
+      "path": "skills/prodiges-startup-review/agents/openai.yaml",
+      "bytes": 411,
+      "sha256": "e415d76bdf85253ed2a330b1bc4582b37f65075c2253edabef04c251d178ab85"
+    },
+    {
+      "path": "skills/prodiges-startup-review/assets/icon.svg",
+      "bytes": 420,
+      "sha256": "e9301497fa98ef56aaca7ede0857b9a18dc06c34040f0679c609a6bf49b1d38b"
+    },
+    {
+      "path": "skills/prodiges-startup-review/assets/report.schema.json",
+      "bytes": 6788,
+      "sha256": "da9dd662c570e27a4870201e48d03309be0280ebab7ed22bbfd9401a361f1954"
+    },
+    {
+      "path": "skills/prodiges-startup-review/assets/startup-brief.template.yaml",
+      "bytes": 1038,
+      "sha256": "b6631b96e893c22f037703bffde3516bbe846c397c2b9962e02e432edf70df6d"
+    },
+    {
+      "path": "skills/prodiges-startup-review/assets/startup-review.template.md",
+      "bytes": 1363,
+      "sha256": "b8ad652ec8cbec97bc889be9ece3e9b24d420900b6a96fe06346736435bbf5ac"
+    },
+    {
+      "path": "skills/prodiges-startup-review/references/evidence-and-working-rules.md",
+      "bytes": 5244,
+      "sha256": "6a11270903e0eba945c1182ce0ab5cf238cdae2033800e1a3e976febbc17d6c7"
+    },
+    {
+      "path": "skills/prodiges-startup-review/references/launch-task-catalog.md",
+      "bytes": 16095,
+      "sha256": "7a7128478543c8f8fa0d127a364ab4a7172d3ef12e27f71dd09b3e72cfa1f5dd"
+    },
+    {
+      "path": "skills/prodiges-startup-review/references/milestone-gates.md",
+      "bytes": 2204,
+      "sha256": "9ee3a5beca89f2be2191c7984a28f30587e5dfe08503603bbb8efac7b02bcd41"
+    },
+    {
+      "path": "skills/prodiges-startup-review/references/output-contract.md",
+      "bytes": 3018,
+      "sha256": "8f3f7b7c4210f382334689f7449914f4d3123e36d269f4fb86e8491f0af97284"
+    },
+    {
+      "path": "templates/startup-brief.template.yaml",
+      "bytes": 1038,
+      "sha256": "b6631b96e893c22f037703bffde3516bbe846c397c2b9962e02e432edf70df6d"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+interface:
+  display_name: Prodiges Customer Discovery
+  short_description: Assess customers, problems, and interview evidence
+  default_prompt: Use $prodiges-customer-discovery to assess our target customer and
+    problem using the attached startup brief and evidence.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

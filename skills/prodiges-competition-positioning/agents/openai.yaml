@@ -1,0 +1,14 @@
+interface:
+  display_name: Prodiges Competition and Positioning
+  short_description: Research alternatives and test positioning claims
+  default_prompt: Use $prodiges-competition-positioning to compare our alternatives
+    and develop evidence-backed positioning.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
